@@ -14,4 +14,4 @@
  
   ![Snake animation](https://github.com/Geicimara-nunes/Geicimara-nunes/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
